@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/tricia/dawson/2016/week13-net-checkstatus/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="843535ec84d6de1052c131f660d5ac50415acec1">
+        <dex dex="/home/tricia/dawson/2016/week13-net-checkstatus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_57b04d4ea31ad9af3e03bddc19431d6d1d5faf78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tricia/dawson/2016/week13-net-checkstatus/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="89463b5ca28a616e8f67a6ae6b8289bf7073e609">
+        <dex dex="/home/tricia/dawson/2016/week13-net-checkstatus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_156c0d262d6de5a4a7b72dde31bff6d8c3abae6a/classes.dex" />
+    </item>
+
+</items>

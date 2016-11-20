@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="mdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="6390923724636"
+    token="-4853069787715421696"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="130" />
+    <task
+        name="instant-run-dex"
+        duration="526" />
+    <task
+        name="instant-run-transform"
+        duration="29" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/home/tricia/dawson/2016/week13-net-checkstatus/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="5522786101441"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/tricia/dawson/2016/week13-net-checkstatus/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="6390923724636"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/tricia/dawson/2016/week13-net-checkstatus/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

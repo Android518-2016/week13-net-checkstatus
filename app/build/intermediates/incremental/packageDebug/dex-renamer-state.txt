@@ -1,0 +1,7 @@
+#Sun Nov 20 11:36:01 EST 2016
+base.0=/home/tricia/dawson/2016/week13-net-checkstatus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_156c0d262d6de5a4a7b72dde31bff6d8c3abae6a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/tricia/dawson/2016/week13-net-checkstatus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_57b04d4ea31ad9af3e03bddc19431d6d1d5faf78/classes.dex
+base.1=/home/tricia/dawson/2016/week13-net-checkstatus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_57b04d4ea31ad9af3e03bddc19431d6d1d5faf78
+file.0=/home/tricia/dawson/2016/week13-net-checkstatus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_156c0d262d6de5a4a7b72dde31bff6d8c3abae6a/classes.dex
